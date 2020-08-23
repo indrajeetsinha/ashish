@@ -3,7 +3,9 @@
 using namespace std;
 int main()
 {
-	cout<<"hello world";
+	cout<<"\nhii";
+	cout<<"\nvande mataram";
+	cout<<"\nhello world";
 	return 0;
 //	getch();
 }
